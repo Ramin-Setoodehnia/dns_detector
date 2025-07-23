@@ -25,5 +25,5 @@ nameserver 1.1.1.1
 ## How to Run
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/MrDevAnony/dns_detector/main/dns_detector.sh)
+bash <(curl -s https://raw.githubusercontent.com/Ramin-Setoodehnia/dns_detector/main/dns_detector.sh)
 ```
